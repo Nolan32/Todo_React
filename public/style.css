@@ -1,0 +1,9 @@
+body{
+  font-size: 18px;
+}
+.done{
+  color: green;
+}
+.todo{
+  color: red;
+}
